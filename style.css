@@ -1,0 +1,37 @@
+#container 
+{
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+margin: 50px;
+
+
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: azure;
+}
+
+.bar
+{
+    width: 35px;
+    background-color: rgb(231, 187, 130);
+    margin: 10px;
+}
+
+.bt
+{
+    padding: 5px;
+    margin: 20px;
+    margin-top: 30px;
+    width: 100px;
+    height: 35px;
+    color: rgb(13, 17, 16);
+    background-color: aquamarine;
+    border-radius:10px;
+opacity: .7;
+box-shadow: 5px 5px 3px rebeccapurple;
+}
